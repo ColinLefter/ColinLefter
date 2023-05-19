@@ -1,8 +1,8 @@
-### GitHub Stats
+## GitHub Stats
 
 [![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools and Languages
+## Tools and Languages
 ![](https://img.shields.io/badge/-Python-purple?logo=python)
 ![](https://img.shields.io/badge/-R-purple?logo=R)
 ![](https://img.shields.io/badge/-Java-purple?logo=Java)
