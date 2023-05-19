@@ -3,7 +3,7 @@ I'm a 1st-year Computer Science student minoring in Data Science at The Universi
 
 ## GitHub Stats
 
-[![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinLefter&include_all_commits=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/-Python-purple?logo=python)
