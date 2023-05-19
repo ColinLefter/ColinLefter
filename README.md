@@ -1,3 +1,6 @@
+## About me
+I'm a 1st-year Computer Science student minoring in Data Science at The University of British Columbia, Okanagan campus. I'm passionate about leveraging algorithmic thinking alongside financial technology to deliver data-driven solutions founded on key performance indicators. Feel free to contact me by email or via my socials!
+
 ## GitHub Stats
 
 [![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
