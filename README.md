@@ -20,6 +20,7 @@ I'm a 1st-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Java-purple?logo=Java)
 ![](https://img.shields.io/badge/-LaTeX-purple?logo=latex)
 ![](https://img.shields.io/badge/-Tableau-purple?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/-Jupyter-purple?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/-Plotly-purple?logo=plotly)
 ![](https://img.shields.io/badge/-Pandas-purple?logo=pandas)
 ![](https://img.shields.io/badge/-Scikitlearn-purple?logo=scikitlearn&logoColor=white)
