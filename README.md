@@ -31,6 +31,7 @@ I'm a 1st-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Git-purple?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-purple?logo=github)
 ![](https://img.shields.io/badge/-Microsoft%20Excel-purple?logo=microsoftexcel)
+![](https://img.shields.io/badge/-Maple-purple?logo=maple)
 
 ## :dart: Top Skills
 
