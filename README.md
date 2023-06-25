@@ -34,9 +34,9 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Maple-purple?logo=maple)
 
 ## :dart: Top Skills
-
+![](https://img.shields.io/badge/-Algorithmic%20Trading%20-purple?&style=for-the-badge)
+![](https://img.shields.io/badge/-Quantitative%20Analysis%20-purple?&style=for-the-badge)
+![](https://img.shields.io/badge/-Data%20Structures-purple?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Visualization-purple?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Analytics-purple?&style=for-the-badge)
-![](https://img.shields.io/badge/-Python-purple?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Object%20Oriented%20Programming%20(OOP)-purple?&style=for-the-badge)
-![](https://img.shields.io/badge/-Algorithmic%20Trading%20-purple?&style=for-the-badge)
