@@ -22,6 +22,7 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Tableau-purple?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/-Jupyter-purple?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/-Plotly-purple?logo=plotly)
+![](https://img.shields.io/badge/-Plotly%20Dash-purple?logo=plotly)
 ![](https://img.shields.io/badge/-Pandas-purple?logo=pandas)
 ![](https://img.shields.io/badge/-Scikitlearn-purple?logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/-IntelliJ%20IDEA-purple?logo=intellijidea)
