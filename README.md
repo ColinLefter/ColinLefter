@@ -11,7 +11,7 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 
 ## :globe_with_meridians: GitHub Stats
 
-[![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Colin's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :magic_wand: Tools and Languages
 
