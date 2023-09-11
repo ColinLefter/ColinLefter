@@ -43,4 +43,5 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 
 ## :electron: Current Projects
 ### Genesis Synapse
-<img alt="HomeDark1" src="https://github.com/ColinLefter/Genesis-Synapse-Showcase/assets/68645918/2ad2bdbc-da56-489d-a997-e1e0022c772d">
+<img alt="GS3HomeDark" src="https://github.com/ColinLefter/ColinLefter/assets/68645918/9a37007d-9062-46ba-8482-089e58508467">
+
