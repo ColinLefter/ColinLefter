@@ -41,7 +41,7 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Data%20Analytics-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Object%20Oriented%20Programming%20(OOP)-indigo?&style=for-the-badge)
 
-## :electron: Current Projects
+## :electron: Current Developments
 ### Genesis Synapse
-<img alt="GS3HomeDark" src="https://github.com/ColinLefter/ColinLefter/assets/68645918/9a37007d-9062-46ba-8482-089e58508467">
+<img alt="HomeDark" src="https://github.com/ColinLefter/ColinLefter/assets/68645918/3accad5b-f10a-4c4e-acff-850b96f0f777">
 
