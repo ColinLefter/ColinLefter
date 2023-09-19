@@ -1,4 +1,5 @@
 ## :wave: About me
+
 I'm a 3rd-year Computer Science student minoring in Data Science at The University of British Columbia. I'm passionate about leveraging algorithmic thinking alongside financial technology to deliver data-driven solutions founded on key performance indicators. Feel free to contact me by email or via my socials!
 
 [<img align="left" alt="Colin Lefter | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
@@ -34,6 +35,7 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Maple-indigo?logo=maple)
 
 ## :dart: Top Skills
+
 ![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Quantitative%20Analysis%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Structures-indigo?&style=for-the-badge)
@@ -42,6 +44,7 @@ I'm a 3rd-year Computer Science student minoring in Data Science at The Universi
 ![](https://img.shields.io/badge/-Object%20Oriented%20Programming%20(OOP)-indigo?&style=for-the-badge)
 
 ## :electron: Current Developments
-### Genesis Synapse
-<img alt="HomeDark" src="https://github.com/ColinLefter/ColinLefter/assets/68645918/3accad5b-f10a-4c4e-acff-850b96f0f777">
 
+### Genesis Synapse
+
+[![Video Name](assets/HomeDark.png)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
