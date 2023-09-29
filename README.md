@@ -1,6 +1,6 @@
 ## :wave: About me
 
-I'm a 3rd-year Computer Science student minoring in Data Science at The University of British Columbia. I'm passionate about leveraging algorithmic thinking alongside financial technology to deliver data-driven solutions founded on key performance indicators. Feel free to contact me by email or via my socials!
+I'm a 3rd-year undergraduate Computer Science major and Data Science minor at The University of British Columbia. I'm passionate about leveraging algorithmic thinking alongside financial technology to deliver data-driven solutions founded on key performance indicators. Feel free to contact me by email or via my socials!
 
 [<img align="left" alt="Colin Lefter | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
 [<img align="left" alt="Colin Lefter | Email" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" />][email]
