@@ -19,7 +19,7 @@ I'm a 3rd-year undergraduate Computer Science major and Data Science minor at Th
 ![](https://img.shields.io/badge/-Python-indigo?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-R-indigo?logo=R)
 ![](https://img.shields.io/badge/-Java-indigo?logo=Java)
-![](https://img.shields.io/badge/-MySQL-indigo)
+![](https://img.shields.io/badge/-SQL-indigo)
 ![](https://img.shields.io/badge/-LaTeX-indigo?logo=latex)
 ![](https://img.shields.io/badge/-Tableau-indigo?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/-Jupyter-indigo?logo=jupyter&logoColor=white)
