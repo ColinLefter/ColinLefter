@@ -39,11 +39,11 @@ I'm a 3rd-year undergraduate Computer Science major and Data Science minor at Th
 ## :dart: Top Skills
 
 ![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Quantitative%20Analysis%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-FinTech%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Data%20Engineering-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Structures-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Data%20Visualization-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Data%20Analytics-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Object%20Oriented%20Programming%20(OOP)-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Machine%20Learning-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Time%20Series%20Analysis%20-indigo?&style=for-the-badge)
 
 ## :electron: Current Developments
 
