@@ -19,7 +19,12 @@ I'm a 3rd-year undergraduate Computer Science major and Data Science minor at Th
 ![](https://img.shields.io/badge/-Python-indigo?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-R-indigo?logo=R)
 ![](https://img.shields.io/badge/-Java-indigo?logo=Java)
+![](https://img.shields.io/badge/-JavaScript-indigo?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/-HTML-indigo?logo=HTML)
+![](https://img.shields.io/badge/-CSS-indigo?logo=CSS)
 ![](https://img.shields.io/badge/-SQL-indigo)
+![](https://img.shields.io/badge/-React-indigo?logo=React&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-indigo?logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-LaTeX-indigo?logo=latex)
 ![](https://img.shields.io/badge/-Tableau-indigo?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/-Jupyter-indigo?logo=jupyter&logoColor=white)
@@ -33,13 +38,11 @@ I'm a 3rd-year undergraduate Computer Science major and Data Science minor at Th
 ![](https://img.shields.io/badge/-Seaborn-indigo?logo=seaborn)
 ![](https://img.shields.io/badge/-Git-indigo?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-indigo?logo=github)
-![](https://img.shields.io/badge/-Microsoft%20Excel-indigo?logo=microsoftexcel)
-![](https://img.shields.io/badge/-Maple-indigo?logo=maple)
 
 ## :dart: Top Skills
 
-![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-FinTech%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Engineering-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Data%20Structures-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Machine%20Learning-indigo?&style=for-the-badge)
