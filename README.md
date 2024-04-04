@@ -53,4 +53,4 @@ I'm a 3rd-year undergraduate Computer Science major at The University of British
 
 ### Genesis Quantitative Platforms
 
-[![GQP](assets/GQPLandingLightLatest.png)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
+[![GQP](assets/LandingPage.png)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
