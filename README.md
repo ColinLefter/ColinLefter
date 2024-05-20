@@ -1,3 +1,6 @@
+[![GQP](assets/Dark/GQPBanner.jpg#gh-dark-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
+[![GQP](assets/Light/GQPBanner.jpg#gh-light-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
+
 ## :wave: About me
 
 I'm a 4th-year undergraduate Computer Science major at The University of British Columbia. I'm passionate about leveraging algorithmic thinking alongside financial technology to deliver data-driven solutions founded on key performance indicators. Feel free to contact me by email or via my socials!
@@ -52,5 +55,5 @@ I'm a 4th-year undergraduate Computer Science major at The University of British
 ## :electron: Current Developments
 
 ### Genesis Quantitative Platforms
-
-[![GQP](assets/LandingPage.png)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
+[![GQP](assets/Dark/LandingPage.png#gh-dark-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
+[![GQP](assets/Light/LandingPage.png#gh-light-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase)
