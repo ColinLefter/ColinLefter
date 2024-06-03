@@ -54,5 +54,5 @@ I'm a 4th-year Computer Science major at The University of British Columbia. I'm
 ## :electron: Current Developments
 
 ### Genesis Quantitative Platforms
-[![GQP](assets/Dark/LandingPage.png#gh-dark-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase#gh-dark-mode-only)
-[![GQP](assets/Light/LandingPage.png#gh-light-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase#gh-light-mode-only)
+[![GQP](assets/Dark/HeroHeaderLatest.png#gh-dark-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase#gh-dark-mode-only)
+[![GQP](assets/Light/HeroHeaderLatest.png#gh-light-mode-only)](https://github.com/ColinLefter/Genesis-Synapse-Showcase#gh-light-mode-only)
