@@ -2,7 +2,7 @@
 
 ## :wave: About me
 
-I'm a 4th-year Computer Science major at The University of British Columbia. I'm passionate about full-stack development and financial technology. Feel free to contact me by email or via my socials!
+I'm a final-year Computer Science major at The University of British Columbia. I'm passionate about FinTech and Quantitative Finance. Feel free to contact me by email or via my socials!
 
 [<img align="left" alt="Colin Lefter | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
 [<img align="left" alt="Colin Lefter | Email" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" />][email]
@@ -16,40 +16,27 @@ I'm a 4th-year Computer Science major at The University of British Columbia. I'm
 
 [![Colin's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ColinLefter&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## :magic_wand: Tools and Languages
-
-![](https://img.shields.io/badge/-Python-indigo?logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Java-indigo?logo=Java)
-![](https://img.shields.io/badge/-R-indigo?logo=R)
-![](https://img.shields.io/badge/-TypeScript-indigo?logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-HTML-indigo?logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/-CSS-indigo?logo=CSS3)
-![](https://img.shields.io/badge/-SQL-indigo?logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/-React-indigo?logo=React&logoColor=white)
-![](https://img.shields.io/badge/-Next.js-indigo?logo=Next.js&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-indigo?logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/-LaTeX-indigo?logo=latex)
+## 🛠️ Tools & Frameworks
+![](https://img.shields.io/badge/-React-indigo?logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Next.js-indigo?logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-Django-indigo?logo=django&logoColor=white)
+![](https://img.shields.io/badge/-Apache%20Airflow-indigo?logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/-OpenMP-indigo)
+![](https://img.shields.io/badge/-CUDA-indigo?logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/-PyTorch-indigo?logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-Figma-indigo?logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/-Tableau-indigo?logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/-Jupyter-indigo?logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/-Plotly-indigo?logo=plotly)
-![](https://img.shields.io/badge/-Pandas-indigo?logo=pandas)
-![](https://img.shields.io/badge/-Scikitlearn-indigo?logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/-Android%20Studio-indigo?logo=android&logoColor=white)
-![](https://img.shields.io/badge/-IntelliJ%20IDEA-indigo?logo=intellijidea)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-indigo?logo=visualstudiocode)
-![](https://img.shields.io/badge/-Unreal%20Engine-indigo?logo=unrealengine)
-![](https://img.shields.io/badge/-Seaborn-indigo?logo=seaborn)
-![](https://img.shields.io/badge/-Git-indigo?logo=git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-indigo?logo=github)
+![](https://img.shields.io/badge/-Plotly%20Dash-indigo?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-indigo?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-SQL-indigo?logo=mysql&logoColor=white)
 
 ## :dart: Top Skills
 
 ![](https://img.shields.io/badge/-FinTech%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Data%20Engineering-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Data%20Structures-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Machine%20Learning-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Time%20Series%20Analysis%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Quantitative%20Finance%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Full-Stack%20Development%20-indigo?&style=for-the-badge)
+![](https://img.shields.io/badge/-Software%20Engineering%20-indigo?&style=for-the-badge)
 
 ## :electron: Current Developments
 
