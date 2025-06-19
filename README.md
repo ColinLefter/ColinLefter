@@ -20,6 +20,7 @@ I'm a final-year Computer Science major at The University of British Columbia. I
 ![](https://img.shields.io/badge/-React-indigo?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Next.js-indigo?logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/-Django-indigo?logo=django&logoColor=white)
+![](https://img.shields.io/badge/-MATLAB-indigo?logo=MATLAB&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Airflow-indigo?logo=apache-airflow&logoColor=white)
 ![](https://img.shields.io/badge/-OpenMP-indigo)
 ![](https://img.shields.io/badge/-CUDA-indigo?logo=nvidia&logoColor=white)
@@ -31,7 +32,6 @@ I'm a final-year Computer Science major at The University of British Columbia. I
 ![](https://img.shields.io/badge/-SQL-indigo?logo=mysql&logoColor=white)
 
 ## :dart: Top Skills
-
 ![](https://img.shields.io/badge/-FinTech%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Quantitative%20Finance%20-indigo?&style=for-the-badge)
