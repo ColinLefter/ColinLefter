@@ -2,7 +2,7 @@
 
 ## :wave: About me
 
-I'm a final-year Computer Science major at The University of British Columbia. I'm passionate about FinTech and Quantitative Finance. Feel free to contact me by email or via my socials!
+I'm passionate about FinTech and Quantitative Finance. Feel free to contact me by email or via my socials!
 
 [<img align="left" alt="Colin Lefter | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
 [<img align="left" alt="Colin Lefter | Email" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" />][email]
