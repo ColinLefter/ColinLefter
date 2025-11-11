@@ -35,7 +35,6 @@ I'm passionate about FinTech and Quantitative Finance. Feel free to contact me b
 ![](https://img.shields.io/badge/-FinTech%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Algorithmic%20Trading%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Quantitative%20Finance%20-indigo?&style=for-the-badge)
-![](https://img.shields.io/badge/-Full-Stack%20Development%20-indigo?&style=for-the-badge)
 ![](https://img.shields.io/badge/-Software%20Engineering%20-indigo?&style=for-the-badge)
 
 ## :electron: Current Developments
